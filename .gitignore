@@ -1,5 +1,5 @@
 .puku
-.env
+
 .node_modules
 .dist
 .vercel
